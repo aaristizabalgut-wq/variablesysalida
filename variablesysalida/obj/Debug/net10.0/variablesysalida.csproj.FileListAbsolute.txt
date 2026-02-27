@@ -1,0 +1,14 @@
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\bin\Debug\net10.0\variablesysalida.exe
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\bin\Debug\net10.0\variablesysalida.deps.json
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\bin\Debug\net10.0\variablesysalida.runtimeconfig.json
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\bin\Debug\net10.0\variablesysalida.dll
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\bin\Debug\net10.0\variablesysalida.pdb
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.AssemblyInfoInputs.cache
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.AssemblyInfo.cs
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.csproj.CoreCompileInputs.cache
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.dll
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\refint\variablesysalida.dll
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.pdb
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\variablesysalida.genruntimeconfig.cache
+C:\Users\auxiliarti\source\repos\variablesysalida\variablesysalida\obj\Debug\net10.0\ref\variablesysalida.dll
